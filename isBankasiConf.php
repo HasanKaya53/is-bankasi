@@ -3,7 +3,7 @@
 /**
  *
  *
- * Paratika sanal pos (hpp) kurulumu için gerekli ayarları barınıdır.
+ * iş bankası sanal pos (3D pay hosting) kurulumu için gerekli ayarları barınıdır.
  *
  * @category   Sanal Pos Kurulumu
  * @author     Hasan Kaya <info@hasankayaa.com>
