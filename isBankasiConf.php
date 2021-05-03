@@ -1,5 +1,17 @@
 <?php
 
+/**
+ *
+ *
+ * Paratika sanal pos (hpp) kurulumu için gerekli ayarları barınıdır.
+ *
+ * @category   Sanal Pos Kurulumu
+ * @author     Hasan Kaya <info@hasankayaa.com>
+ * @copyright  2021 Buhusoft
+ * @license    http://www.php.net/license/3_01.txt  PHP License 3.01
+
+ */
+
 class isBankasiConfClass
 {
   /* Satıcı bilgileri */
